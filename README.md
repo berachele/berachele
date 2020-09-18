@@ -5,7 +5,7 @@
 </h3>
 
 <em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
-[![Twitter: berachele425]](https://twitter.com/berachele425)
+[![Twitter: berachele425](https://img.shields.io/twitter/follow/berachele425?style=social)](https://twitter.com/berachele425)
 [![Linkedin: berachele](https://img.shields.io/badge/-berachele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berachele/)](https://www.linkedin.com/in/berachele/)
 
 ### <img src="https://media.giphy.com/media/WTpOSih9ocrZ2RDfzl/giphy.gif" width="50"> A little more about me...  
@@ -14,10 +14,10 @@
 const rachele = {
   pronouns: "she" | "her",
   code: [HTML5, CSS/LESS, JavaScript, Python],
-  tools: [React, Redux, NodeJS, Styled-Components, Jest],
+  tools: [VSCode, React, Redux, NodeJS, Styled-Components, Jest, SQLite3],
   architecture: ["Whimsical", "Figma", "db-Designer"],
 
- current_project: https://github.com/orgs/Lambda-School-Labs/teams/labs26-citrics-teamb/repositories
+ current_project: <a href="2.html" onclick="https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB">Citrics -- a city metrics app</a>
 }
 ```
 
