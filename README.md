@@ -1,6 +1,6 @@
 <h2> Hi, I'm Rachele Edwards! <img src="https://media.giphy.com/media/keySJvblcwvZU0ssQ2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
-<h3>Full Stack Web Developer at <a href="http://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/QAPhxHyGNA0vZ2qCt9/giphy.gif" width="30">
+<h3>Full Stack Web Developer at <a href="http://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/W2XIJOMSFaXxgyNwKl/giphy.gif" width="45">
 <!-- </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </h3>
 
