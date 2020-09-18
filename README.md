@@ -11,15 +11,20 @@
 ### <img src="https://media.giphy.com/media/WTpOSih9ocrZ2RDfzl/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-let curentProj = "Citrics -- a city metrics app"
-const rachele = {
+let rachele = {
   pronouns: "she" | "her",
-  code: [HTML5, CSS/LESS, JavaScript, Python],
-  tools: [VSCode, React, Redux, NodeJS, Styled-Components, Jest, SQLite3],
-  architecture: ["Whimsical", "Figma", "db-Designer"],
+  code: {
+    'frontend': ['HTML', 'CSS', 'LESS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Style-Components'],
+    'backend': ['NodeJS', 'Express', 'Jest'],
+    'database': ['SQLite3', 'PostGresSQL'],
+    'devops': ['GitHub Pages', 'Vercel (was Zeit)', 'Heroku', 'AWS'],
+    'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
+    }
 
-  current_project: document.write("<p>Link: " + currentProj.link("https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB") + "</p>");
+  current_project: Citrics -- a city metrics app (see link below)
 }
 ```
+### Current Project
+- [/favicon.ico Citrics Repo](https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB)
 
 <img src="https://media.giphy.com/media/KGBEI0mjQOsZ0KXbjc/giphy.gif" width="60"><em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
