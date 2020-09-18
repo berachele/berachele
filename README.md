@@ -11,13 +11,14 @@
 ### <img src="https://media.giphy.com/media/WTpOSih9ocrZ2RDfzl/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+let curentProj = "Citrics -- a city metrics app"
 const rachele = {
   pronouns: "she" | "her",
   code: [HTML5, CSS/LESS, JavaScript, Python],
   tools: [VSCode, React, Redux, NodeJS, Styled-Components, Jest, SQLite3],
   architecture: ["Whimsical", "Figma", "db-Designer"],
 
- current_project: <a href="2.html" onclick="https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB">Citrics -- a city metrics app</a>
+  current_project: document.write("<p>Link: " + currentProj.link("https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB") + "</p>");
 }
 ```
 
