@@ -8,7 +8,7 @@
 [![Twitter: berachele425](https://img.shields.io/twitter/follow/berachele425?style=social)](https://twitter.com/berachele425)
 [![Linkedin: berachele](https://img.shields.io/badge/-berachele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berachele/)](https://www.linkedin.com/in/berachele/)
 
-### <img src="https://media.giphy.com/media/YqoVbXWD5bijA6xixM/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/YqoVbXWD5bijA6xixM/giphy.gif" width="50" height="60"> A little more about me...  
 
 ```javascript
 let rachele = {
