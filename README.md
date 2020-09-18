@@ -8,7 +8,7 @@
 [![Twitter: berachele425](https://img.shields.io/twitter/follow/berachele425?style=social)](https://twitter.com/berachele425)
 [![Linkedin: berachele](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berachele/)](https://www.linkedin.com/in/berachele/)
 
-### <img src="https://media.giphy.com/media/hSuLg5v8cvmqfeNsug/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/hSuLg5v8cvmqfeNsug/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
 const rachele = {
@@ -21,4 +21,4 @@ const rachele = {
 }
 ```
 
-<img src="https://media.giphy.com/media/KGBEI0mjQOsZ0KXbjc/giphy.gif" width="60"><em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
+<img src="https://media.giphy.com/media/KGBEI0mjQOsZ0KXbjc/giphy.gif" width="50"><em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
