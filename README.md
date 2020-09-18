@@ -4,9 +4,9 @@
 <!-- </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </h3>
 
-<em><b>Let's connect! I love meeting new people and growing from others feedback and experiences.</b></em>
-[![Twitter: berachele425](https://img.shields.io/twitter/follow/berachele425?style=social)](https://twitter.com/berachele425)
-[![Linkedin: berachele](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berachele/)](https://www.linkedin.com/in/berachele/)
+<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
+[![Twitter: berachele425]](https://twitter.com/berachele425)
+[![Linkedin: berachele](https://img.shields.io/badge/-berachele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berachele/)](https://www.linkedin.com/in/berachele/)
 
 ### <img src="https://media.giphy.com/media/WTpOSih9ocrZ2RDfzl/giphy.gif" width="50"> A little more about me...  
 
