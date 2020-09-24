@@ -26,6 +26,6 @@ let rachele = {
 ```
 ### Current Project
 - [Citrics Repo](https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB)
-- [Citrics Deployed](b.citrics.dev)
+- [Citrics Deployed](https://b.citrics.dev/)
 
 <img src="https://media.giphy.com/media/KGBEI0mjQOsZ0KXbjc/giphy.gif" width="60"><em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
