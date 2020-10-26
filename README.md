@@ -20,13 +20,12 @@ let rachele = {
     'devops': ['GitHub Pages', 'Vercel (was Zeit)', 'Heroku', 'AWS'],
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Whimsical', 'Figma', 'DB-Designer', 'React libraries'],
     }
-
-  current_project: Citrics -- a city metrics app (see link below)
 }
 ```
 ### Current Project(s)
-- [Citrics Repo](https://github.com/Lambda-School-Labs/Labs26-Citrics-FE-TeamB)
-- [Citrics Deployed](https://b.citrics.dev/)
+- [Citrics Repo](https://github.com/labs26-citrics)
+- [Citrics Deployed](https://citrics.netlify.app/)
 - [Professional Portfolio Repo](https://github.com/berachele/portfolio_berachele)
+- [Story Squad](https://github.com/ss-mvp)
 
 <img src="https://media.giphy.com/media/KGBEI0mjQOsZ0KXbjc/giphy.gif" width="60"><em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
