@@ -12,7 +12,8 @@
 
 ```javascript
 let rachele = {
-  pronouns: "she" | "her",
+  pronouns: 'she' | 'her',
+  certification: 'Full-Stack Web Development @ Lambda School'
   code: {
     'frontend': ['HTML', 'CSS', 'LESS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Style-Components'],
     'backend': ['NodeJS', 'Express', 'Jest'],
