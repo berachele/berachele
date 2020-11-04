@@ -24,10 +24,6 @@ let rachele = {
 }
 ```
 ### Current Project(s)
-- [Story Squad Deployed](https://github.com/ss-mvp)
-- [Story Squad Repo](https://github.com/ss-mvp)
 - [Professional Portfolio Repo](https://github.com/berachele/portfolio_berachele)
-- [Citrics Repo](https://github.com/labs26-citrics)
-- [Citrics Deployed](https://citrics.netlify.app/)
 
 <img src="https://media.giphy.com/media/KGBEI0mjQOsZ0KXbjc/giphy.gif" width="60"><em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
